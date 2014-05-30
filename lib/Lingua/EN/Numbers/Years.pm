@@ -1,5 +1,5 @@
 package Lingua::EN::Numbers::Years;
-$Lingua::EN::Numbers::Years::VERSION = '1.01_01';
+$Lingua::EN::Numbers::Years::VERSION = '1.02';
 use 5.006;
 use strict;
 use warnings;
